@@ -23,13 +23,13 @@ https://user-images.githubusercontent.com/59966943/153448450-c0e42cca-1659-444c-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Developed by :
 <div align="center">
-<a href="https://github.com/hrugved06"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Hrugved Kolhe</b></sub></a>
+<a href="https://github.com/Vinit2024"><img src="https://avatars.githubusercontent.com/u/59966943?s=400&u=445f4a7598547c0ecdeb22a265dd1a3dad9e297d&v=4" width="100px;" alt=""/><br /><sub><b> Vinit Patel</b></sub></a>
 </br>
 
 </br>
 
-[![GitHub followers](https://img.shields.io/github/followers/hrugved06.svg?label=Follow%20@hrugved06&style=social)](https://github.com/hrugved06) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
+[![GitHub followers](https://img.shields.io/github/followers/Vinit2024.svg?label=Follow%20@Vinit2024&style=social)](https://github.com/Vinit2024) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/VINITPATEL1912?style=social)](https://twitter.com/VINITPATEL1912)
 </div>
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
